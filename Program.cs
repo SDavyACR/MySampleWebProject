@@ -13,6 +13,7 @@ namespace MySampleWebProject
     {
         public static void Main(string[] args)
         {
+            //to test pull cancael
             CreateHostBuilder(args).Build().Run();
             //same changes
         }
