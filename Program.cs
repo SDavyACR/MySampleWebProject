@@ -14,6 +14,7 @@ namespace MySampleWebProject
         public static void Main(string[] args)
         {
             CreateHostBuilder(args).Build().Run();
+            //same changes
         }
 
         public static IHostBuilder CreateHostBuilder(string[] args) =>
